@@ -13,9 +13,9 @@
 
 - <b>Tooling & Architecture:</b> Webpack optimization, Monorepo (Lerna), Modular components
 
-- 🌍 Experienced in multilingual applications, SSR, and performance optimization.
+  🌍 Experienced in multilingual applications, SSR, and performance optimization.
 
-- 🌱 I’m currently exploring Next.js development and Unit testing.
+  🌱 I’m currently exploring Next.js development and Unit testing.
 
 🔗 Let's connect and build something awesome! 🚀
 
