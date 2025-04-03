@@ -1,16 +1,17 @@
-## Hi there 👋
+🚀 Frontend Developer | React | Node.js | Monorepos
 
-<!--
-**branka88/branka88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Brankica Kostic! I'm a frontend developer passionate about building high-performance, scalable applications.
 
-Here are some ideas to get you started:
+💡 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, Redux (Sagas), i18n, UI/UX optimizations
+
+Backend: Node.js
+
+Tooling & Architecture: Webpack optimization, Monorepo (Lerna), Modular components
+
+🌍 Experienced in multilingual applications, SSR, and performance optimization.
+
+📌 Currently exploring Next.js development and Unit testing.
+
+🔗 Let's connect and build something awesome! 🚀
